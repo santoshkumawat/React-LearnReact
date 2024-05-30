@@ -1,5 +1,6 @@
-import React from "react";
+import React, {} from "react";
 import UseStateEx from "./UseStateHooks";
+import UseEffectEx from "./UseEffectEx";
 
 const HooksEx = () => {
     return (
@@ -11,6 +12,9 @@ const HooksEx = () => {
             
             <h2>Types of Hooks:</h2>
             <UseStateEx/>
+            <br /><br />
+
+            <UseEffectEx/>
         </div>
     );
 }

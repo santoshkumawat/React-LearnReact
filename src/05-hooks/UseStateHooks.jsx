@@ -15,7 +15,7 @@ const UseStateEx = () => {
 
     return (
         <div>
-            <h3>UseState Hooks:</h3>
+            <h3>1. UseState Hooks:</h3>
             <p><strong>A state of component is a variable that holds some information thay may change over the lifetime of the component</strong></p>
 
             <p><strong>Whenever the <em>value</em> of the state changes, the <em>component re-renders</em> itself with <em>updated values.</em></strong></p>
