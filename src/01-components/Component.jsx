@@ -5,7 +5,7 @@ import Rule from "./Rule";
 const Component = () => { 
     return (
     <div className='react-components'>
-        <h1>Componets</h1>
+        <h1>Components</h1>
         <HelloWorld/>
         <p>This Hello World rendered from HelloWorld Components.</p>
         <Rule/>
