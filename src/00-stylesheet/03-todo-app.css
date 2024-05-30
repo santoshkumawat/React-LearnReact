@@ -5,7 +5,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -13,6 +12,7 @@ body{
     width: 300px;
     padding: 20px;
     border-radius: 20px;
+    color: #fff;;
     background-color: rgb(70, 70, 70) !important;
 }
 

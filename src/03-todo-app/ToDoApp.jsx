@@ -7,8 +7,9 @@ import Button from "./Button";
 const ToDoApp = () => {
     return (
         <div>
+            <h3>Todo App:</h3>
+
             <div className="todo-container">
-                <h3>Todo App:</h3>
                 <Header title="Todo App"/>
                 <TodoItem text="Code"/>
                 <TodoItem text="Eat"/>
