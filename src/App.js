@@ -9,8 +9,15 @@ function App() {
     <div className="learn-react">
       <Component/>
       <HorizontalLine/>
+
       <JSX/>
-      <ToDoApp/>
+      <HorizontalLine/>
+
+      <ToDoApp/> 
+      <HorizontalLine/>
+
+      
+
     </div>
   );
 }
